@@ -1,4 +1,4 @@
-
+![banner](./img/banner.png)
 
 # Hello World! I'm Muhammad Riyadhul Jinan Nasution
 
@@ -31,7 +31,7 @@ const riyadhul = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
